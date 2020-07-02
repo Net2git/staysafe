@@ -20,7 +20,6 @@ I expect to learn new concepts and developments in this field.
 ```
 
 ## Ideal Job
-```
 ![Image](dream job.png)
 
 - Bachelor’s degree in Computer Science, Computer Engineering or similar technical field
@@ -32,18 +31,14 @@ I expect to learn new concepts and developments in this field.
 - Experience influencing software engineering best practices within your team
 - Strong knowledge of QA methodology and tools, with demonstrated experience in an SDET role
 - Excellent communication, collaboration, reporting, analytical and problem solving skills.
-```
 
 ## Personal profile
-```
 I do not need to do Myers-Briggs Type Indicator (MBTI) test. I know myself well. I am bit shy and nervous with people unless I know them well.
 
 My aptitude is more towards languages than IT.
-```
 
 
 ## Project idea
-```
 
 ### Overview
 I want to create an app that can listen to music and analyse it.
@@ -59,4 +54,3 @@ lots of IT skills
 
 Outcome
 The app that will benefit millions
-```
