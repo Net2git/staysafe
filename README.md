@@ -1,8 +1,8 @@
 # Welcome to Nisha's home page
 
 
-```
 ## Me
+```
 My name is Nisha Natarajan. I was born in India. I have been living in Australia for a long time. I studied school in Sydney and completed further study in Tafe till 2017. I speak Tamil and English. I like to walk/run. I used to play tennis and various sports also in the past. I like to listen to music or play music as a pastime. I have a cat which stays with me.
 
 e-mail: nisha.natarajan2@gmail.com
@@ -10,8 +10,8 @@ student no: nnnn
 webpage: [link](https://net2git.github.io/staysafe)
 ```
 
-```
 ## My interest in IT
+```
 Interest in IT developed few years ago due to my brother being in IT, but I did not learn further than required. It is just my general curiosity to know some basic programming and other aspects of IT.
 
 I was accepted into RMIT to learn introductory programming though I am not progressing well to the extent I'd like to.
@@ -19,8 +19,8 @@ I was accepted into RMIT to learn introductory programming though I am not progr
 I expect to learn new concepts and developments in this field.
 ```
 
-```
 ## Ideal Job
+```
 ![Image](dream job.png)
 
 - Bachelor’s degree in Computer Science, Computer Engineering or similar technical field
@@ -34,15 +34,16 @@ I expect to learn new concepts and developments in this field.
 - Excellent communication, collaboration, reporting, analytical and problem solving skills.
 ```
 
-```
 ## Personal profile
+```
 I do not need to do Myers-Briggs Type Indicator (MBTI) test. I know myself well. I am bit shy and nervous with people unless I know them well.
 
 My aptitude is more towards languages than IT.
 ```
 
-```
+
 ## Project idea
+```
 
 ### Overview
 I want to create an app that can listen to music and analyse it.
